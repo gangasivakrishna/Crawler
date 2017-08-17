@@ -1,0 +1,12 @@
+After successfully installed the requirements,,you can run the program
+
+you should enter the correct url.
+	ex:https://www.example.com/
+	ex:http://www.example.com/
+
+	for choice 6 & 7:
+
+		Inspect Element in your browser to see tag and class or id.
+
+6	By using tag name and class name
+7	By using tag name and id name
