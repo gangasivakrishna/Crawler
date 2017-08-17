@@ -1,0 +1,7 @@
+BeautifulSoup
+re
+requests
+import urllib.request
+
+To run the program you should install the above library packages on your system
+
