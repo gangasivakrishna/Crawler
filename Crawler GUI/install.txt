@@ -1,0 +1,7 @@
+sudo apt-get install python3-tk
+sudo apt-get install python3-bs4
+sudo pip3 install beautifulsoup4
+sudo pip3 install html5lib
+sudo pip3 install beautifulsoup4
+sudo pip install requests
+sudo pip3 install urllib
