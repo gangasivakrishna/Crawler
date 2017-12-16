@@ -3,7 +3,7 @@ Webcrawler will enter your domain and scan every page of your website, extractin
 
 install gskrawler using pip3 :
 
-  sudo pip3 install gskrawler
+    sudo pip3 install gskrawler
   
  
  Usage:
