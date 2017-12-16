@@ -8,4 +8,4 @@ install gskrawler using pip3 :
  
  Usage:
   
-  visit this url  https://pypi.python.org/pypi/gskrawler
+  visit this url     https://pypi.python.org/pypi/gskrawler
